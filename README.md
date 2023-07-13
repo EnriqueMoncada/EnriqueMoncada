@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align=center">
   <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg" width="300" height="505">
 </div>
 <h1 align="center">Hi 👋, I'm Johan E. Bonilla</h1>
