@@ -1,4 +1,4 @@
-[![MasterHead width='10px'](https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg)
+<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg" width="300" height="200">
 <h1 align="center">Hi 👋, I'm Johan E. Bonilla</h1>
 <h3 align="center">I'm a front-end web developer with 2 years of experience in HTML, CSS, JavaScript, and ReactJS. My experience includes the design and development of attractive and functional web applications.
 </h3>
