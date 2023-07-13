@@ -3,13 +3,13 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/EnriqueMoncada](https://github.com/EnriqueMoncada)
+- 👨‍💻 All my projects are available at [https://github.com/EnriqueMoncada](https://github.com/EnriqueMoncada)
 
 - 💬 Ask me about **ReactJS, Html5, CSS, Bootstrap5**
 
-- 📫 Cómo contactarme **johanbonilla45@gmail.com**
+- 📫 How to contact me **johanbonilla45@gmail.com**
 
-- 📄 Conoce mis experiencias [www.linkedin.com/in/johan-enrique-bonilla-moncada-7680251a8](www.linkedin.com/in/johan-enrique-bonilla-moncada-7680251a8)
+- 📄 Know my experiences [www.linkedin.com/in/johan-enrique-bonilla-moncada-7680251a8](www.linkedin.com/in/johan-enrique-bonilla-moncada-7680251a8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
