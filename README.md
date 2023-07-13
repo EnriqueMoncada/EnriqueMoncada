@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Johan E. Bonilla</h1>
-<h3 align="center">I'm a front-end web developer with 2 years of experience designing and developing web applications using technologies like HTML, CSS, JavaScript, and ReactJS. My experience includes creating attractive and functional user interfaces using HTML to structure content, CSS for layout and visual styling, and JavaScript to add interactivity and dynamism. I also have experience using ReactJS, a JavaScript library for building user interfaces, to create scalable and efficient web applications.
+<h1 align="center">Hi 👋, I'm Johan E. Bonilla</h1>
+<h3 align="center">I'm a front-end web developer with 2 years of experience in HTML, CSS, JavaScript, and ReactJS. My experience includes the design and development of attractive and functional web applications.
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
