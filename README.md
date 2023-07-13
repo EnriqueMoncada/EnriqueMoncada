@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*Ok74cpxho9U96tTh1zsqmA.png)
+![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*Ok74cpxho9U96tTh1zsqmA.png)
 
 <h1 align="center">Hi 👋, I'm Johan E. Bonilla</h1>
 <h3 align="center">I'm a front-end web developer with 2 years of experience in HTML, CSS, JavaScript, and ReactJS. My experience includes the design and development of attractive and functional web applications.
